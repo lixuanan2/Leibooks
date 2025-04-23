@@ -1,0 +1,36 @@
+***********************************************************
+	
+		Trabalho Prático 1 @ DCO-LEI-FCUL 	 
+		
+***********************************************************
+
+***********************
+	Overview
+***********************
+
+Este é um projeto Eclipse que contém o código e artefactos fornecidos para 
+o Trabalho Prático 1, organizado de acordo com a solução de desenho descrita 
+no enunciado.
+
+O objetivo deste trabalho é que os alunos exercitem a utilização das técnicas e
+dos princípios de programação e desenho OO lecionados na disciplina. 
+
+O trabalho centra-se numa aplicação que é um organizador de recursos de leitura digitais.
+Esta versão contém uma interface gráfica (GUIClient) que suporta quase todas as
+funcionalidades consideradas na solução. Funcionalidades como ver as propriedades de um
+documento ou apagá-lo, adicionar ou remover uma prateleira, estão disponíveis em menus 
+de contexto. Em MACOS, a forma de aceder ao menu de contexto poderá não ser a usual e exigir 
+a utilização do "secondary click". 
+É ainda fornecido um programa cliente (SimpleClient). 
+
+
+***********************
+	Pré-Requisitos
+***********************
+
+- JDK (Java Development Kit) 17 ou superior instalado (recomendado Oracle ou OpenJDK).
+- IDE de sua preferência para Java com plugin SonarLint instalado (recomendado Eclipse ou VSCode).
+
+Com os pré-requisitos recomendados satisfeitos bastará importarem o projeto. 
+Uma vez completada a implementação das classes em falta, 
+serão capazes de executar tanto o SimpleClient como o GUIClient.
